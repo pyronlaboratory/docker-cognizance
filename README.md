@@ -1,4 +1,4 @@
-## docker-cognizance
+# docker-cognizance
 
 Docker set up tutorial for getting acquaintaned with containerization. 
 
