@@ -39,5 +39,5 @@ docker login
 docker push ronyx/cheers2019
 ```
 
-Please note that this tutorial is meant for Windows OS.
+> Please note that this tutorial is meant for Windows OS.
 
