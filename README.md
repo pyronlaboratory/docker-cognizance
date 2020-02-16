@@ -4,7 +4,7 @@ Docker set up tutorial for getting acquaintaned with containerization.
 
 You will need to download and install Docker to use the Docker command line interface (CLI). [Get Docker for your system](https://docs.docker.com/)
 
-Clone the repository git clone https://github.com/ronnielivingsince1994/docker-cognizance.git
+Clone the repository git clone https://github.com/pyronlaboratory/docker-cognizance.git
 
 Build container:
 ----------------
